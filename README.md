@@ -28,6 +28,19 @@
 
 ## Requistiso | Componentes
 - Módulo Wemos ESP8266 com CH340G (https://www.autocorerobotica.com.br/modulo-wemos-esp8266-com-ch340g)
-- 
+- ZMCT103C 5A (https://shopee.com.br/product/343910579/19225078896?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMXZ4MUZGQWFkQmZudWt0K3BnbDRBdEhyYXV2WnNCcUVyVEhmdjJScndqeTJ0M1RQVDAySnppeGZIVUhNcitxSGkzZEhhc216NWtrdC8wSVFDRkZ6ZDJiTkE0NlpCZmpObTdJWGVhOUQzZE5RPT0&utm_source=chatgpt.com)
+- Fonte de tomada 5V 1A (vai ser adaptada e integrada)
+- Diodo de proteção
+- Protoboard para prototipação
+- Fios diversos
+- Jumper Cables Macho-Macho, Macho-Femea e Femea-Femea
+- Equipamento de solda
+- Estanho de solda
 
-## Requistiso | Plataformas
+## Requistiso | Plataformas IOT
+- Mesa
+- Tomada
+- Computador com 
+
+## Requisitso | Plataformas Servidor
+- 
