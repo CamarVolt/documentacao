@@ -27,5 +27,7 @@
 - O ser
 
 ## Requistiso | Componentes
+- Módulo Wemos ESP8266 com CH340G (https://www.autocorerobotica.com.br/modulo-wemos-esp8266-com-ch340g)
+- 
 
 ## Requistiso | Plataformas
