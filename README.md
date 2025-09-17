@@ -40,7 +40,15 @@
 ## Requistiso | Plataformas IOT
 - Mesa
 - Tomada
-- Computador com 
+- Computador com acesso À software de programalçao embutida
+- Cabo para enviar a programação embutida para a placa
+- Lanche
+- Apetrechos para soldagem
+- Mascara de gas
+- Oculos de solda
+- Luva
+- Ventilador para solda
+- Aquelas garras para solda
 
 ## Requisitso | Plataformas Servidor
-- 
+- Computador com VScode e NodeJS para programar o servidor
