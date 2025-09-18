@@ -22,7 +22,7 @@
 ## Requistios | Funcionalidades do Servidor
 - O servidor deve ser capaz de receber dados via wi-fi.
 - O servidor deve ser capaz de receber dados de multiplos aparelhos.
-- 0 servidor deve ser capaz de armazenar dados.
+- O servidor deve ser capaz de armazenar dados.
 - O servidor não pode desintegralizar dados.
 - O servidor não pode ser nomeado "Ultimate Electricity Measuring Server Pegatron 5000"
 - O servidor deve receber e tratar os dados de forma segura.
